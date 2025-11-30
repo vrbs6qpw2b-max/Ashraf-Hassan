@@ -9,7 +9,7 @@
 ### 🐍 Python Beginner  
 ### 🧩 ERP Odoo  (Accounting – Inventory – Sales – Purchases)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkblue) <br>
+![Python]
 
 
 
