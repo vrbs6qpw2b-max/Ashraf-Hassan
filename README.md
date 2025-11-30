@@ -1,35 +1,84 @@
+# 👋 Hi, I'm **Ashraf Hassan**
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
 </div>
 
-<h3>ABOUT ME</h3>
+---
 
-I'm a versatile developer with experience in building web platforms. \
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
+## 🧑‍💻 **About Me**
 
+I'm at the beginning of my Python journey, with strong experience in **Accounting**, **Finance**, and **ERP Systems (Odoo)**.
 
+I love learning, building practical solutions, and improving businesses using technology. Currently focusing on becoming a solid Python developer so I can combine coding with my ERP/business background.
 
-<h3>EXPERIENCE</h3>
+I enjoy:
 
-I have experience working in both private companies and as a freelancer.
+* Writing clean, simple, and reliable code
+* Working with business systems
+* Learning backend development & automation
+* Helping others and sharing what I learn
 
-I've spent most of my time as a developer working with:
+---
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+## 💼 **Experience**
 
-I also have experience with:
+I have over 2 years of experience in **financial accounting**:
 
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+* Clients & suppliers
+* Bank & treasury
+* Taxes
+* Financial reporting
 
-<h3>MY FRIEND</h3>
-has a message for you...
+And **1.5 years** self‑learning and working with **Odoo ERP**:
 
-<br>
-<br>
+* Accounting
+* Inventory
+* Sales
+* Purchases
+
+I also passed a trial **Odoo Functional Test** with **90%** and preparing for the official certification.
+
+---
+
+## 🔧 **Tech & Tools I'm Learning / Using**
+
+### 🐍 **Python**
+
+<img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python">
+- Basics & control flow
+- Functions
+- Modules & Packages
+- File handling
+- Working with VS Code
+
+### 🟣 **Odoo ERP**
+
+<img src="https://img.shields.io/badge/Odoo-ERP-purple?labelColor= black" alt="Odoo">
+- Odoo Accounting
+- Inventory workflows
+- Journal entries & reconciliation
+- Sales/Purchases cycles
+
+### 🛠 **Other Skills**
+
+* Linux basics
+* Git & GitHub
+* Problem solving
+
+---
+
+## 📚 **Goals**
+
+* Build Python mini‑projects
+* Automate accounting tasks
+* Create useful Odoo tools
+* Build real portfolio projects on GitHub
+
+---
+
+## 🐍 My Python Friend Has a Message for You
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python tip">
 </div>
-<br>
