@@ -9,8 +9,7 @@
 ### 🐍 Python Beginner  
 ### 🧩 ERP Odoo  (Accounting – Inventory – Sales – Purchases)
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
 
 
 
